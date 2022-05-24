@@ -1,2 +1,2 @@
-# Window_Covering
+# Blinds
 Homekit Window covering
